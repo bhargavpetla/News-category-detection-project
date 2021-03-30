@@ -2,7 +2,7 @@
 News Headline Classification through multiple machine learning model and comparison of results.
 
 Classify news into categories based on their headline.
-Various classifiers were tried - Decision Tree, Support Vector Classifier, Multinomial Naive Bayesian Classifier, Multilayered Perceptron, Random Forest.
+Various classifiers were tried - Decision Tree, Support Vector Classifier, Multinomial Naive Bayesian Classifier, Random Forest , neural network.
 
 Data set is mentioned above as file name: "dsjVoxArticles.TSV".
 
